@@ -1,2 +1,6 @@
 # Document-Reading-Virtual-Assistant
-Document reading virtual assistant
+
+1. Reading Single PDF
+2. Reading Multiple PDF
+3. Entity Matching
+
